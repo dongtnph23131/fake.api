@@ -1,0 +1,7 @@
+{
+    "tiny_face_detector_model-weights": {
+        "0": "http://localhost:5173/models/tiny_face_detector_model-0.weights",
+        "1": "http://localhost:5173/models/tiny_face_detector_model-1.weights",
+        "2": "http://localhost:5173/models/tiny_face_detector_model-2.weights"
+    }
+}
